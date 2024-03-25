@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <img src="https://banner2.cleanpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg" height="30" alt="Bash logo"  />
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbsTj8VMCKFI-02-Kpil6pWfEHf5Q6qq4oTqI8oQmn7A&s" height="30" alt="Bash logo"  />
   <img width="12" />
   <img src="https://img.jsdelivr.com/github.com/kubernetes-client.png" height="30" alt="K8S logo"  />
   <img width="12" />

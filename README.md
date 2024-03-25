@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://img.jsdelivr.com/github.com/kubernetes-client.png" height="30" alt="K8S logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png" height="30" alt="Docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />

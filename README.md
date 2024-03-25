@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif"  />
+<img align="right" height="150" src="https://fusion.works/wp-content/uploads/2023/01/ezgif-4-3288abc425.gif"  />
 
 ###
 

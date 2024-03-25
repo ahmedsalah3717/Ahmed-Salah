@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png" height="30" alt="Docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://sue.eu/wp-content/uploads/sites/6/2022/06/terraform-hashicorp-logo-920x920-sue-v0.png" height="30" alt="Terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />

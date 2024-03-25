@@ -22,11 +22,11 @@
   <img width="12" />
   <img src="https://sue.eu/wp-content/uploads/sites/6/2022/06/terraform-hashicorp-logo-920x920-sue-v0.png" height="30" alt="Terraform logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://e7.pngegg.com/pngimages/171/84/png-clipart-jenkins-logo-landscape-tech-companies.png" height="30" alt="Jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://w7.pngwing.com/pngs/555/220/png-transparent-aws-hd-logo.png" height="30" alt="AWS logo"  />
 </div>
 
 ###

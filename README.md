@@ -16,7 +16,7 @@
 <div align="left">
   <img src="" height="30" alt="Bash logo"  />
   <img width="12" />
-  <img src="https://img.jsdelivr.com/github.com/kubernetes-client.png" height="30" alt="K8S logo"  />" height="30" alt="typescript logo"  />
+  <img src="https://img.jsdelivr.com/github.com/kubernetes-client.png" height="30" alt="K8S logo"  />" 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
